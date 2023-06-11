@@ -1,3 +1,4 @@
+![1000003053](https://github.com/microsoftgraph/microsoft-graph-docs/assets/95949300/fdebe022-76e0-414c-ac3e-71997759098c)
 <!-- BEGIN MICROSOFT SECURITY.MD V0.0.8 BLOCK -->
 
 ## Security
